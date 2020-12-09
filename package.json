@@ -1,7 +1,7 @@
 {
-  "name": "BOT KAGURA",
+  "name": "KAGURA",
   "version": "2.1.0",
-  "description": "botkagura - Node Js",
+  "description": "Whatsapp Bot - Node Js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
